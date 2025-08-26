@@ -70,7 +70,7 @@ Copy code
 ### 1) Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/AI-Trip-Planner.git
+git clone https://github.com/Aditya-Aditya29/AI-Trip-Planner.git
 cd AI-Trip-Planner
 Backend
 
